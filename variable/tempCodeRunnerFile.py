@@ -1,1 +1,1 @@
-sum = a+ b 
+print(b)
